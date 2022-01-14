@@ -29,3 +29,11 @@ out/
 ./.idea/
 /.idea/
 .idea/
+
+./dataset
+/dataset
+dataset
+
+./dataset/
+/dataset/
+dataset/
